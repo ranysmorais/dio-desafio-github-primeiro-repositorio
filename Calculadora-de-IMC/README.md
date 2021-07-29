@@ -4,6 +4,7 @@ O seguinte sistema tem como objetivo verificar se o usuário está
 
 em seu peso ideal com base em sua altura e peso atual. 
 
+(sistema desenvolvido em C#).
 
 
 ### Como calcular o IMC?
@@ -21,4 +22,5 @@ em seu peso ideal com base em sua altura e peso atual.
    
 
    fonte: https://www.calculoimc.com.br .
+   
 
