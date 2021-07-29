@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Iv8fGuc6V3JqwnB/EKWWx1ZBm6pAYkz9lA5wdkZoWvJUk6D6x5dKPhpOLZ9DPbS7atlX00DnHiYmhcAIOQLaiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ranys\\source\\repos\\Calcular_Imc\\Calcular_Imc\\Calcular_Imc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ranys\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.15\\microsoft.netcore.app.host.win-x64.3.1.15.nupkg.sha512"
+  ],
+  "logs": []
+}

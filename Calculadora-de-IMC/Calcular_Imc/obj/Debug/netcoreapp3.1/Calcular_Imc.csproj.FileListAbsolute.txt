@@ -1,0 +1,16 @@
+C:\Users\ranys\source\repos\Calcular_Imc\Calcular_Imc\bin\Debug\netcoreapp3.1\Calcular_Imc.exe
+C:\Users\ranys\source\repos\Calcular_Imc\Calcular_Imc\bin\Debug\netcoreapp3.1\Calcular_Imc.deps.json
+C:\Users\ranys\source\repos\Calcular_Imc\Calcular_Imc\bin\Debug\netcoreapp3.1\Calcular_Imc.runtimeconfig.json
+C:\Users\ranys\source\repos\Calcular_Imc\Calcular_Imc\bin\Debug\netcoreapp3.1\Calcular_Imc.runtimeconfig.dev.json
+C:\Users\ranys\source\repos\Calcular_Imc\Calcular_Imc\bin\Debug\netcoreapp3.1\Calcular_Imc.dll
+C:\Users\ranys\source\repos\Calcular_Imc\Calcular_Imc\bin\Debug\netcoreapp3.1\Calcular_Imc.pdb
+C:\Users\ranys\source\repos\Calcular_Imc\Calcular_Imc\obj\Debug\netcoreapp3.1\Calcular_Imc.csprojAssemblyReference.cache
+C:\Users\ranys\source\repos\Calcular_Imc\Calcular_Imc\obj\Debug\netcoreapp3.1\Calcular_Imc.Form1.resources
+C:\Users\ranys\source\repos\Calcular_Imc\Calcular_Imc\obj\Debug\netcoreapp3.1\Calcular_Imc.Properties.Resources.resources
+C:\Users\ranys\source\repos\Calcular_Imc\Calcular_Imc\obj\Debug\netcoreapp3.1\Calcular_Imc.csproj.GenerateResource.cache
+C:\Users\ranys\source\repos\Calcular_Imc\Calcular_Imc\obj\Debug\netcoreapp3.1\Calcular_Imc.AssemblyInfoInputs.cache
+C:\Users\ranys\source\repos\Calcular_Imc\Calcular_Imc\obj\Debug\netcoreapp3.1\Calcular_Imc.AssemblyInfo.cs
+C:\Users\ranys\source\repos\Calcular_Imc\Calcular_Imc\obj\Debug\netcoreapp3.1\Calcular_Imc.csproj.CoreCompileInputs.cache
+C:\Users\ranys\source\repos\Calcular_Imc\Calcular_Imc\obj\Debug\netcoreapp3.1\Calcular_Imc.dll
+C:\Users\ranys\source\repos\Calcular_Imc\Calcular_Imc\obj\Debug\netcoreapp3.1\Calcular_Imc.pdb
+C:\Users\ranys\source\repos\Calcular_Imc\Calcular_Imc\obj\Debug\netcoreapp3.1\Calcular_Imc.genruntimeconfig.cache
